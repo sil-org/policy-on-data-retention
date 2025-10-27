@@ -16,10 +16,10 @@ The document sections are plain text files using [MarkDown](https://www.markdown
 
 ## Overview
 
-[[00-headers-toc]] (https://github.com/sil-org/policy-on-data-retention/blob/develop/00-headers-toc.md)
+[[000-headers-toc]] (https://github.com/sil-org/policy-on-data-retention/blob/develop/000-headers-toc.md)
 
-[[01-intro]] (https://github.com/sil-org/policy-on-data-retention/blob/develop/01-intro.md)
+[[010-intro]] (https://github.com/sil-org/policy-on-data-retention/blob/develop/010-intro.md)
 
-[[02-legal-requirements]] (https://github.com/sil-org/policy-on-data-retention/blob/develop/02-legal-requirements.md)
+[[020-legal-requirements]] (https://github.com/sil-org/policy-on-data-retention/blob/develop/020-legal-requirements.md)
 
-[[03-business-requirements]] (https://github.com/sil-org/policy-on-data-retention/blob/develop/03-business-requirements.md)
+[[030-business-requirements]] (https://github.com/sil-org/policy-on-data-retention/blob/develop/030-business-requirements.md)
